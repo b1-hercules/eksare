@@ -37,3 +37,6 @@ gem 'bootstrap-sass', '~> 3.3.7'
 gem 'devise', '~> 4.3.0'
 
 gem 'toastr-rails', '~>1.0.3'
+
+gem 'omniauth', '~> 1.7', '>= 1.7.1'
+gem 'omniauth-facebook', '~> 4.0'
